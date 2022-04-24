@@ -1,6 +1,8 @@
 # Detecting-Sarcasm-in-Reddit-Comments
+
+=======================================================================
+
 Performing EDA on Reddit comments and building models to predict a sarcastic comment!!
-============================================================================================
 
 Using reddit data to detect sarcasm in the comments.
 The aim of this project is to detect if the comments in Reddit threads are sarcastic or not?
