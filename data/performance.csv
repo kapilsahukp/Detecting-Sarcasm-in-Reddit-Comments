@@ -1,0 +1,10 @@
+﻿Model,Accuracy
+Logistic Regression with TF-IDF (Child Comments),68.32%
+Logistic Regression with TF-IDF (Parent-Child Comments),65.95%
+Random Forest with TF-IDF,64.76%
+Decision Tree with TF-IDF,59.57%
+Random Forest with Glove,62.75%
+Logistic Regression with GloVE,57.49%
+Decision Tree with GloVE,56.41%
+FastText,68.99%
+Bidirectional-LSTM with one_hot,71.43%
